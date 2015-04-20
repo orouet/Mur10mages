@@ -1,0 +1,198 @@
+/* SUPER CONTENEURS */
+html {
+
+	height : 100%;
+	
+	margin : 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px;
+
+}
+
+
+body {
+
+	height : 100%;
+	
+	margin : 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px;
+	
+	font-family : Verdana;
+	font-size : 10pt;
+	font-weight : normal;
+	
+	background-color : #ffffff;
+	
+	background-color : #000000;
+	color : #ffffff;
+
+}
+
+
+/* CONTENEURS */
+form {
+
+	margin : 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px;
+
+}
+
+
+table {
+
+	margin : 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px;
+
+}
+
+
+ul {
+
+	margin : 0px 0px 0px 0px;
+	padding : 0px 0px 0px 15px;
+	
+	list-style-type : none;
+
+}
+
+
+a {
+
+	text-decoration : none;
+	
+	color : inherit;
+
+}
+
+
+a:hover {
+
+	color : blue;
+
+}
+
+
+/* SOUS-CONTENEURS */
+li {
+
+	display : block;
+	
+	margin : 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px;
+	
+	vertical-align : middle;
+
+}
+
+
+span {
+
+	display : inline-block;
+
+}
+
+
+tr {
+
+	vertical-align : top;
+
+}
+
+
+
+/* */
+img {
+
+	border-width : 0px;
+
+}
+
+/* MISE EN FORME GENERALE */
+h1 {
+
+	padding : 20px 0px 5px 0px;
+	margin : 0px 0px 0px 0px;
+	
+	font-size : 24px;
+	font-weight : bold;
+
+}
+
+h2 {
+
+	padding : 10px 0px 5px 0px;
+	margin : 0px 0px 0px 0px;
+	
+	font-size : 20px;
+	font-weight : bold;
+
+}
+
+h3 {
+
+	padding : 5px 0px 0px 0px;
+	margin : 0px 0px 0px 0px;
+	
+	font-size : 18px;
+	font-weight : bold;
+
+}
+
+h4 {
+
+	padding : 0px 0px 0px 0px;
+	margin : 0px 0px 0px 0px;
+	
+	font-size : 16px;
+	font-weight : bold;
+
+}
+
+
+/* Classes génériques */
+br.nettoyeur {
+
+	clear : both;
+
+}
+
+
+/* ID */
+#Page {
+
+	width : 850px;
+	
+	margin : 20px auto 20px auto;
+	padding : 0px 10px 0px 10px;
+	
+	background-color : #000000;
+	color : #ffffff;
+
+}
+
+#Entete {
+
+	width : 100%;
+	
+	margin : 0px 0px 0px 0px;
+	padding : 5px 0px 5px 0px;
+
+
+}
+
+#Corps {
+
+	width : 100%;
+	
+	margin : 0px 0px 0px 0px;
+	padding : 5px 0px 5px 0px;
+
+}
+
+#Pied {
+
+	width : 100%;
+	
+	margin : 0px 0px 0px 0px;
+	padding : 5px 0px 5px 0px;
+
+}
